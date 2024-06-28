@@ -36,8 +36,9 @@ pip install -r requirements.txt
 - Create a .env file in the root directory of the project.
 - Add your Gemini Flash API key to the .env file:
 
-
+```
 API_KEY="your_gemini_flash_api_key"
+```
 
 ## Usage
 ## Run the Streamlit app:
